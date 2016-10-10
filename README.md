@@ -1,6 +1,6 @@
 # spreadsheet_to_rdf
 
-This script is used to download automatically a Google Spreadsheet as CSV and transform it in RDF via OpenRefine.
+This script downloads automatically a Google Spreadsheet as CSV and transform it in RDF via OpenRefine.
 
 Usage:
 ```
